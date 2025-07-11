@@ -3,6 +3,8 @@
 
 https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems
 
-![Consistency](myQuote.jpeg)
+<p align="center">
+    <img src="myQuote.jpeg" > </img>
+</p>
 
 #### Consistency is the only key. Be it daily or weekly. But do it.
